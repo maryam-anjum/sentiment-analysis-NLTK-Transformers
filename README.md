@@ -1,1 +1,3 @@
-# sentiment-analysis-NLTK-Transformers
+
+Sentiment Analysis using NLTK and Transformers
+This project implements sentiment analysis on product reviews using two approaches: traditional NLP techniques with NLTK and modern deep learning models with Transformers. The project preprocesses the text data by tokenizing, removing stopwords, and lemmatizing the reviews before applying sentiment classification. It uses NLTK for a simple sentiment analysis model and compares its performance with a pre-trained Transformer model to classify sentiments as positive, negative, or neutral. The goal is to assess the efficiency and accuracy of both methods, providing insights into their applicability for real-world text analysis tasks.
